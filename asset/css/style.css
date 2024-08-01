@@ -421,6 +421,7 @@ body {
 
 .listsongs:hover {
   background-color: #fff;
+  color: #170f23;
   border-radius: 6px;
 }
 
